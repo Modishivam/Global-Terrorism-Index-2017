@@ -1,10 +1,8 @@
 # Global-Terrorism-Index-2017
 Global Terrorism Index 2017
 
-"C:\Users\Admin\OneDrive\Pictures\Screenshots\1.png"
 
 In this project I perform Exploratory Data Analysis on Global Terrorism Dataset which includes data cleaning, missing value treatments, data manipulation. As a Security/Defense Analyst, the objective behind this project contains investigation of data, discovering patterns, creating dashboard from data with proper charts, to find out the hot zone of terrorism and to find out security issues and insights out of EDA. The Global Terrorism Dataset is a large amount of data that consists 135 columns and 181691 rows capturing terrorism data globally from 1970 to 2017. After data transformation it remains 25 columns and 181691 rows. The aim of the project is to shed light on this important issue through the dashboard and proving valuable insights to Security Agencies to take proper action .
-
 
 
 Insight:
